@@ -268,3 +268,29 @@ The tabbed display provides details for each stage of the analysis:
     *   **Lexical Analyzer Output (Tokens):** The list of tokens generated from the source code, e.g., `<'x', ID> (Attribute: index 0)`.
     *   **Symbol Table:** Shows static pattern definitions and the dynamic symbol table populated during tokenization.
     *   **Parse Steps:** A trace of the parser's stack, remaining input, and the action taken at each step.
+
+## Images 
+
+### --- Lexical Analyzer ---
+
+
+<img width="1673" height="882" alt="image" src="https://github.com/user-attachments/assets/9a7cd2ee-6cc5-44e8-a3ed-3a71d329e872" />
+<img width="1659" height="875" alt="image" src="https://github.com/user-attachments/assets/ffaa2b3f-4f43-4cb9-96db-0ce71581ff5e" />
+<img width="1666" height="881" alt="image" src="https://github.com/user-attachments/assets/f77596b8-be60-4474-bfc4-73dde042f392" />
+<img width="1673" height="880" alt="image" src="https://github.com/user-attachments/assets/76a8ec89-49c0-4e95-9301-e4ed0b7d9304" />
+<img width="1669" height="875" alt="image" src="https://github.com/user-attachments/assets/6f794b95-80f8-4e89-a234-21bbfc518422" />
+<img width="1672" height="879" alt="image" src="https://github.com/user-attachments/assets/52567c46-6a13-495f-a7d3-32082ad3873e" />
+
+
+
+### --- Sintatic Analyzer ---
+
+
+<img width="1673" height="885" alt="image" src="https://github.com/user-attachments/assets/3d4fb10b-5bf8-4cca-974f-583f139220b2" />
+<img width="1675" height="886" alt="image" src="https://github.com/user-attachments/assets/7e26183c-05ca-4055-882c-7200185adc51" />
+<img width="1667" height="878" alt="image" src="https://github.com/user-attachments/assets/920eb7d8-2c85-4c62-8036-c9281b34d86e" />
+<img width="1664" height="878" alt="image" src="https://github.com/user-attachments/assets/99d188aa-8114-4310-8b8d-810cd77f81eb" />
+<img width="1668" height="885" alt="image" src="https://github.com/user-attachments/assets/d019ad0d-449f-450a-98cb-fa26933ab972" />
+<img width="1667" height="878" alt="image" src="https://github.com/user-attachments/assets/21b94612-3e8a-4188-9e72-47030ac7eb35" />
+<img width="1662" height="871" alt="image" src="https://github.com/user-attachments/assets/428b3c07-6ca4-4668-9bf2-ace23a93b6e2" />
+
