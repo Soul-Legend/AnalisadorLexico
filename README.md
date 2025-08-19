@@ -6,6 +6,9 @@ The lexical analysis component accepts token definitions as regular expressions,
 
 The syntactic analysis component accepts a context-free grammar, computes the necessary sets (First, Follow, LR(0) items), builds an SLR parsing table, and uses it to parse a stream of tokens. An integrated mode connects both phases.
 
+<img width="1300" height="875" alt="image" src="https://github.com/user-attachments/assets/982c4271-eb7e-43f2-ad56-2c02555b52e9" />
+
+
 ## Features
 
 *   **Lexical Analysis (Lexer Generator):**
